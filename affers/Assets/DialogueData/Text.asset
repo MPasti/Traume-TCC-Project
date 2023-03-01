@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44a967b8272d230478948d257f921b49, type: 3}
+  m_Name: Text
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Uma crian\xE7a? \nCaminhando por essas bandas a tal hora?"
+  - "Bem...\nOlha minha pequenina, a cidade pode n\xE3o ter sido tomada pelos tais
+    sentimentos ruims ainda."
+  - "Mas h\xE1 muitos bandidos e pessoas ruins que se aproveit\xE3o de criancinhas
+    como voc\xEA.\nMelhor tomar cuidado."
+  responses:
+  - responseText: Preciso de algum lugar para dormir
+    dialogueObject: {fileID: 11400000, guid: 5e6bc8f790eea954b83cd80d61a0b2e4, type: 2}
+  - responseText: "N\xE3o quero saber"
+    dialogueObject: {fileID: 11400000, guid: b394b715a9546f04080451f78fc0e43d, type: 2}

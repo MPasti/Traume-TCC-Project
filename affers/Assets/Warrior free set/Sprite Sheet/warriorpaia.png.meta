@@ -1,0 +1,1785 @@
+fileFormatVersion: 2
+guid: 29f48e39646d53c418ea274bdb8643fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7677958010786426183
+    second: warriorpaia_0
+  - first:
+      213: 533937146853522013
+    second: warriorpaia_1
+  - first:
+      213: -2851998917012367287
+    second: warriorpaia_2
+  - first:
+      213: -67271785705819283
+    second: warriorpaia_3
+  - first:
+      213: -9052408041690313193
+    second: warriorpaia_4
+  - first:
+      213: -5404277901006958033
+    second: warriorpaia_5
+  - first:
+      213: 1408308023392084464
+    second: warriorpaia_6
+  - first:
+      213: 1874693869128747047
+    second: warriorpaia_7
+  - first:
+      213: 8942072417280304556
+    second: warriorpaia_8
+  - first:
+      213: 9111892425853362182
+    second: warriorpaia_9
+  - first:
+      213: -4178515398244635212
+    second: warriorpaia_10
+  - first:
+      213: 6321830633012810905
+    second: warriorpaia_11
+  - first:
+      213: -765263345406252509
+    second: warriorpaia_12
+  - first:
+      213: -8921102438552938959
+    second: warriorpaia_13
+  - first:
+      213: 5804885439605438377
+    second: warriorpaia_14
+  - first:
+      213: -3972436970994274358
+    second: warriorpaia_15
+  - first:
+      213: 8620151478363578540
+    second: warriorpaia_16
+  - first:
+      213: 7671638618814071762
+    second: warriorpaia_17
+  - first:
+      213: 6741863925773535503
+    second: warriorpaia_18
+  - first:
+      213: -3545807997105908937
+    second: warriorpaia_19
+  - first:
+      213: -5864823307624319177
+    second: warriorpaia_20
+  - first:
+      213: -1020144705314125840
+    second: warriorpaia_21
+  - first:
+      213: -3790516862314334119
+    second: warriorpaia_22
+  - first:
+      213: -6774703658705574498
+    second: warriorpaia_23
+  - first:
+      213: 1733074394501596586
+    second: warriorpaia_24
+  - first:
+      213: 82860608978960958
+    second: warriorpaia_25
+  - first:
+      213: -5369515423952130353
+    second: warriorpaia_26
+  - first:
+      213: 4014035883400645167
+    second: warriorpaia_27
+  - first:
+      213: -9102569128325986686
+    second: warriorpaia_28
+  - first:
+      213: -6695592678877045733
+    second: warriorpaia_29
+  - first:
+      213: 3445553323959578257
+    second: warriorpaia_30
+  - first:
+      213: -4024182189491137864
+    second: warriorpaia_31
+  - first:
+      213: 7653188725396761935
+    second: warriorpaia_32
+  - first:
+      213: 3453490009414065107
+    second: warriorpaia_33
+  - first:
+      213: 2691568613342735433
+    second: warriorpaia_34
+  - first:
+      213: -5625170553302705212
+    second: warriorpaia_35
+  - first:
+      213: -1487844130982631014
+    second: warriorpaia_36
+  - first:
+      213: -7479651342171585844
+    second: warriorpaia_37
+  - first:
+      213: -8565088324030502201
+    second: warriorpaia_38
+  - first:
+      213: -2577823813373878559
+    second: warriorpaia_39
+  - first:
+      213: 6661696533174367771
+    second: warriorpaia_40
+  - first:
+      213: -845873926724614412
+    second: warriorpaia_41
+  - first:
+      213: -8522197710789128768
+    second: warriorpaia_42
+  - first:
+      213: -4463189937830487515
+    second: warriorpaia_43
+  - first:
+      213: 930003932223519981
+    second: warriorpaia_44
+  - first:
+      213: 7100832525398715511
+    second: warriorpaia_45
+  - first:
+      213: -6716279424740072327
+    second: warriorpaia_46
+  - first:
+      213: -8589920851808943528
+    second: warriorpaia_47
+  - first:
+      213: 2400609799581675463
+    second: warriorpaia_48
+  - first:
+      213: -3517371672536572411
+    second: warriorpaia_49
+  - first:
+      213: -3009590673932605928
+    second: warriorpaia_50
+  - first:
+      213: 1386623458701633717
+    second: warriorpaia_51
+  - first:
+      213: -4529726966540059744
+    second: warriorpaia_52
+  - first:
+      213: 5429168352031420299
+    second: warriorpaia_53
+  - first:
+      213: 646495517855300743
+    second: warriorpaia_54
+  - first:
+      213: 2411763082691399884
+    second: warriorpaia_55
+  - first:
+      213: 3037357538547850267
+    second: warriorpaia_56
+  - first:
+      213: -6972699374793268856
+    second: warriorpaia_57
+  - first:
+      213: 1257845851923459957
+    second: warriorpaia_58
+  - first:
+      213: 4298157199004117358
+    second: warriorpaia_59
+  - first:
+      213: 4136408827309830661
+    second: warriorpaia_60
+  - first:
+      213: -1985800734283942162
+    second: warriorpaia_61
+  - first:
+      213: -9061650103357974495
+    second: warriorpaia_62
+  - first:
+      213: -1468321874122615392
+    second: warriorpaia_63
+  - first:
+      213: -7782505536133391400
+    second: warriorpaia_64
+  - first:
+      213: 4911494945864599598
+    second: warriorpaia_65
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24.4
+  spriteBorder: {x: 0, y: 260, z: 230, w: 445}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: warriorpaia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d2a4991269d8a60800000000000000
+      internalID: 7677958010786426183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5af692910de86700800000000000000
+      internalID: 533937146853522013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948dda3781aab68d0800000000000000
+      internalID: -2851998917012367287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d633995daa0011ff0800000000000000
+      internalID: -67271785705819283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ec82909d26f5280800000000000000
+      internalID: -9052408041690313193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f229cf2d1e52005b0800000000000000
+      internalID: -5404277901006958033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f12e9c8fa05b8310800000000000000
+      internalID: 1408308023392084464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72885043420440a10800000000000000
+      internalID: 1874693869128747047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5afc38c7f981c70800000000000000
+      internalID: 8942072417280304556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600ef8a62e1f37e70800000000000000
+      internalID: 9111892425853362182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bde02f426ee206c0800000000000000
+      internalID: -4178515398244635212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99459ea5777abb750800000000000000
+      internalID: 6321830633012810905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aee69ba0d3165f0800000000000000
+      internalID: -765263345406252509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1365e212990e13480800000000000000
+      internalID: -8921102438552938959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7f48d3d881f8050800000000000000
+      internalID: 5804885439605438377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfe14b2f911fd8c0800000000000000
+      internalID: -3972436970994274358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca06be9191ee0a770800000000000000
+      internalID: 8620151478363578540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3c49f7da2277a60800000000000000
+      internalID: 7671638618814071762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0980c34589ef8d50800000000000000
+      internalID: 6741863925773535503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 492
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73353c2c962cacec0800000000000000
+      internalID: -3545807997105908937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 492
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737fe9e5646fb9ea0800000000000000
+      internalID: -5864823307624319177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 492
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f78144abc7b7d1f0800000000000000
+      internalID: -1020144705314125840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 492
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95830aa2ff0656bc0800000000000000
+      internalID: -3790516862314334119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 492
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95a0549aea6bf1a0800000000000000
+      internalID: -6774703658705574498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5c795cafd1d0810800000000000000
+      internalID: 1733074394501596586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 428
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32401ce841662100800000000000000
+      internalID: 82860608978960958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 428
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce2a5bbb26ab75b0800000000000000
+      internalID: -5369515423952130353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 428
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a44c16e58b4b730800000000000000
+      internalID: 4014035883400645167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 428
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28641b2fa9d2da180800000000000000
+      internalID: -9102569128325986686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 428
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cd3deeee97413a0800000000000000
+      internalID: -6695592678877045733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ee6492e7011df20800000000000000
+      internalID: 3445553323959578257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b25de3ae9b3728c0800000000000000
+      internalID: -4024182189491137864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d6c40f896953a60800000000000000
+      internalID: 7653188725396761935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db5c7ebdd24def20800000000000000
+      internalID: 3453490009414065107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c62eea46f5a5520800000000000000
+      internalID: 2691568613342735433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb97696f216fe1b0800000000000000
+      internalID: -5625170553302705212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 21, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9961a355ad1a5be0800000000000000
+      internalID: -1487844130982631014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 333
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2c612bbb0f23890800000000000000
+      internalID: -7479651342171585844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cae0509c81b22980800000000000000
+      internalID: -8565088324030502201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee9e4e46eab93cd0800000000000000
+      internalID: -2577823813373878559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b163f45a3b9137c50800000000000000
+      internalID: 6661696533174367771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f680d0352ad244f0800000000000000
+      internalID: -845873926724614412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd44c6a5521bb980800000000000000
+      internalID: -8522197710789128768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 261
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a148606609f02c0800000000000000
+      internalID: -4463189937830487515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 261
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec36e326a908ec00800000000000000
+      internalID: 930003932223519981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_45
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 243
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c2eed5f893b8260800000000000000
+      internalID: 7100832525398715511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 236
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9746a14927bfac2a0800000000000000
+      internalID: -6716279424740072327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 236
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85205332f787ac880800000000000000
+      internalID: -8589920851808943528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf236cc4eda05120800000000000000
+      internalID: 2400609799581675463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e9f638919cf2fc0800000000000000
+      internalID: -3517371672536572411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8162be04a39cb36d0800000000000000
+      internalID: -3009590673932605928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8622560b64e3310800000000000000
+      internalID: 1386623458701633717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab3fddc25d2321c0800000000000000
+      internalID: -4529726966540059744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f20a8e9d7485b40800000000000000
+      internalID: 5429168352031420299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cb5aa8f30d8f800800000000000000
+      internalID: 646495517855300743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0d832eebd487120800000000000000
+      internalID: 2411763082691399884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cdff4b69cd62a20800000000000000
+      internalID: 3037357538547850267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881ebdf8cdefb3f90800000000000000
+      internalID: -6972699374793268856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fa8125324c47110800000000000000
+      internalID: 1257845851923459957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69ad6b233f16ab30800000000000000
+      internalID: 4298157199004117358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502b79da9e9776930800000000000000
+      internalID: 4136408827309830661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6bb4ed0c40174e0800000000000000
+      internalID: -1985800734283942162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128577edd3d8e3280800000000000000
+      internalID: -9061650103357974495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 44
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a55cf4f8097f9be0800000000000000
+      internalID: -1468321874122615392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 44
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db1248c27cfef390800000000000000
+      internalID: -7782505536133391400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warriorpaia_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 44
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28c26c81a2292440800000000000000
+      internalID: 4911494945864599598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      warriorpaia_54: 646495517855300743
+      warriorpaia_9: 9111892425853362182
+      warriorpaia_13: -8921102438552938959
+      warriorpaia_3: -67271785705819283
+      warriorpaia_33: 3453490009414065107
+      warriorpaia_57: -6972699374793268856
+      warriorpaia_30: 3445553323959578257
+      warriorpaia_27: 4014035883400645167
+      warriorpaia_8: 8942072417280304556
+      warriorpaia_4: -9052408041690313193
+      warriorpaia_22: -3790516862314334119
+      warriorpaia_47: -8589920851808943528
+      warriorpaia_56: 3037357538547850267
+      warriorpaia_49: -3517371672536572411
+      warriorpaia_62: -9061650103357974495
+      warriorpaia_19: -3545807997105908937
+      warriorpaia_15: -3972436970994274358
+      warriorpaia_64: -7782505536133391400
+      warriorpaia_20: -5864823307624319177
+      warriorpaia_53: 5429168352031420299
+      warriorpaia_21: -1020144705314125840
+      warriorpaia_34: 2691568613342735433
+      warriorpaia_59: 4298157199004117358
+      warriorpaia_2: -2851998917012367287
+      warriorpaia_12: -765263345406252509
+      warriorpaia_43: -4463189937830487515
+      warriorpaia_1: 533937146853522013
+      warriorpaia_26: -5369515423952130353
+      warriorpaia_28: -9102569128325986686
+      warriorpaia_61: -1985800734283942162
+      warriorpaia_63: -1468321874122615392
+      warriorpaia_29: -6695592678877045733
+      warriorpaia_24: 1733074394501596586
+      warriorpaia_39: -2577823813373878559
+      warriorpaia_46: -6716279424740072327
+      warriorpaia_58: 1257845851923459957
+      warriorpaia_48: 2400609799581675463
+      warriorpaia_50: -3009590673932605928
+      warriorpaia_36: -1487844130982631014
+      warriorpaia_60: 4136408827309830661
+      warriorpaia_16: 8620151478363578540
+      warriorpaia_32: 7653188725396761935
+      warriorpaia_55: 2411763082691399884
+      warriorpaia_31: -4024182189491137864
+      warriorpaia_37: -7479651342171585844
+      warriorpaia_35: -5625170553302705212
+      warriorpaia_5: -5404277901006958033
+      warriorpaia_41: -845873926724614412
+      warriorpaia_6: 1408308023392084464
+      warriorpaia_44: 930003932223519981
+      warriorpaia_52: -4529726966540059744
+      warriorpaia_40: 6661696533174367771
+      warriorpaia_42: -8522197710789128768
+      warriorpaia_7: 1874693869128747047
+      warriorpaia_38: -8565088324030502201
+      warriorpaia_18: 6741863925773535503
+      warriorpaia_17: 7671638618814071762
+      warriorpaia_0: 7677958010786426183
+      warriorpaia_10: -4178515398244635212
+      warriorpaia_23: -6774703658705574498
+      warriorpaia_25: 82860608978960958
+      warriorpaia_14: 5804885439605438377
+      warriorpaia_65: 4911494945864599598
+      warriorpaia_45: 7100832525398715511
+      warriorpaia_11: 6321830633012810905
+      warriorpaia_51: 1386623458701633717
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

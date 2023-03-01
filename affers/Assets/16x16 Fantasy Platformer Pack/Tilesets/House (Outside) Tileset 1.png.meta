@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: 5d9a82aff4cb63347b5921e82954ad7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -264322282506193809
+    second: House (Outside) Tileset_0
+  - first:
+      213: -1102114315280217578
+    second: House (Outside) Tileset_1
+  - first:
+      213: 5200607356273645627
+    second: House (Outside) Tileset_2
+  - first:
+      213: 1390420199113068945
+    second: House (Outside) Tileset_3
+  - first:
+      213: 7165773786717322983
+    second: House (Outside) Tileset_4
+  - first:
+      213: 7426650029208261922
+    second: House (Outside) Tileset_5
+  - first:
+      213: 5013948182015048132
+    second: House (Outside) Tileset_6
+  - first:
+      213: -6611429835445329698
+    second: House (Outside) Tileset_7
+  - first:
+      213: 4005163235147454471
+    second: House (Outside) Tileset_8
+  - first:
+      213: -4878860533790246125
+    second: House (Outside) Tileset_9
+  - first:
+      213: 7866041070363516423
+    second: House (Outside) Tileset_10
+  - first:
+      213: 7771236598228699671
+    second: House (Outside) Tileset_11
+  - first:
+      213: 3140892967742329587
+    second: House (Outside) Tileset_12
+  - first:
+      213: -3167074836629038936
+    second: House (Outside) Tileset_13
+  - first:
+      213: 181440892462836867
+    second: House (Outside) Tileset_14
+  - first:
+      213: 8761426491377763681
+    second: House (Outside) Tileset_15
+  - first:
+      213: 3400085030138601880
+    second: House (Outside) Tileset_16
+  - first:
+      213: 5450386988682172615
+    second: House (Outside) Tileset_17
+  - first:
+      213: 8734558098676755255
+    second: House (Outside) Tileset_18
+  - first:
+      213: -5748344824074178347
+    second: House (Outside) Tileset_19
+  - first:
+      213: 5115719343605994410
+    second: House (Outside) Tileset_20
+  - first:
+      213: 4952754124856020560
+    second: House (Outside) Tileset_21
+  - first:
+      213: 76911296537982087
+    second: House (Outside) Tileset_22
+  - first:
+      213: -8137574184845400008
+    second: House (Outside) Tileset_23
+  - first:
+      213: 8266262699848222451
+    second: House (Outside) Tileset_24
+  - first:
+      213: 6743729717739477589
+    second: House (Outside) Tileset_25
+  - first:
+      213: -6971427052535172162
+    second: House (Outside) Tileset_26
+  - first:
+      213: -3210355261761380939
+    second: House (Outside) Tileset_27
+  - first:
+      213: -4463529896452586184
+    second: House (Outside) Tileset_28
+  - first:
+      213: 3489806738951564408
+    second: House (Outside) Tileset_29
+  - first:
+      213: -5489306260173895104
+    second: House (Outside) Tileset_30
+  - first:
+      213: -780014240874570732
+    second: House (Outside) Tileset_31
+  - first:
+      213: 7027510195967088604
+    second: House (Outside) Tileset_32
+  - first:
+      213: 9050071683907944437
+    second: House (Outside) Tileset_33
+  - first:
+      213: 7822132452817088375
+    second: House (Outside) Tileset_34
+  - first:
+      213: 3139959638494209148
+    second: House (Outside) Tileset_35
+  - first:
+      213: 4939136778047002477
+    second: House (Outside) Tileset_36
+  - first:
+      213: 2778001087544729489
+    second: House (Outside) Tileset_37
+  - first:
+      213: 6549642737507849618
+    second: House (Outside) Tileset_38
+  - first:
+      213: -1023621282728188256
+    second: House (Outside) Tileset_39
+  - first:
+      213: -3755799073046121372
+    second: House (Outside) Tileset_40
+  - first:
+      213: 4902767883783168478
+    second: House (Outside) Tileset_41
+  - first:
+      213: 9143460161130516337
+    second: House (Outside) Tileset_42
+  - first:
+      213: 3032550346550459966
+    second: House (Outside) Tileset_43
+  - first:
+      213: -7672098784623569182
+    second: House (Outside) Tileset_44
+  - first:
+      213: 1482272987696563136
+    second: House (Outside) Tileset_45
+  - first:
+      213: -5868866380791760113
+    second: House (Outside) Tileset_46
+  - first:
+      213: 7054814451585878143
+    second: House (Outside) Tileset_47
+  - first:
+      213: 6055165419537273641
+    second: House (Outside) Tileset_48
+  - first:
+      213: -6764629167179265646
+    second: House (Outside) Tileset_49
+  - first:
+      213: -6814543694603794282
+    second: House (Outside) Tileset_50
+  - first:
+      213: -7507975296860178729
+    second: House (Outside) Tileset_51
+  - first:
+      213: 8005126904278733720
+    second: House (Outside) Tileset_52
+  - first:
+      213: -4269727783305486803
+    second: House (Outside) Tileset_53
+  - first:
+      213: 764122369772615464
+    second: House (Outside) Tileset_54
+  - first:
+      213: -7227673503402720968
+    second: House (Outside) Tileset_55
+  - first:
+      213: 7686513534055380388
+    second: House (Outside) Tileset_56
+  - first:
+      213: 6469514718243991242
+    second: House (Outside) Tileset_57
+  - first:
+      213: 3691772043683049891
+    second: House (Outside) Tileset_58
+  - first:
+      213: 2484458159588806401
+    second: House (Outside) Tileset_59
+  - first:
+      213: 3633512398310432036
+    second: House (Outside) Tileset_60
+  - first:
+      213: -5666989897523187422
+    second: House (Outside) Tileset_61
+  - first:
+      213: 654243135012237764
+    second: House (Outside) Tileset_62
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b80f390c7bff4448058a7e48c76f5c
+      internalID: 1075584676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4cd272a59e2b24e854bbfff597ccbc
+      internalID: 707217497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdbdf42c49149e4d9adecba81703525
+      internalID: 153992713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcfe538602cc9a489c90e1568362f5e
+      internalID: 1234386794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6b48de2140a5949be32f5592e8ce42
+      internalID: 613716438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20d13c287a8a4e4e8e7612987945025
+      internalID: 286631444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f046920789eb6584598a0838a120aabb
+      internalID: 1987078552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0260b6e24498d314980bb678bb29933c
+      internalID: -301343422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d020b270d680934db230056f504618a
+      internalID: -1206059887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadbe93c9441f184896e1cd0cfab9b85
+      internalID: -582455228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75727c34285563743b1075d86432522c
+      internalID: 1347222120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8698d98f4070e5043b20d83d8945c1d8
+      internalID: 383936699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ec4ea71fb1f3849aad4f8e347368ff
+      internalID: 881679486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae2933c5c0c9d248af4a37d45544f79
+      internalID: -403359338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d8af070e7344e40907ca0702e519b5
+      internalID: -491235936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ada9941a5e0b542bf668484bd36af7
+      internalID: 1739199523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8816c78932fdd64189e979e429189ea
+      internalID: 1392208196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe5ef1c4433c864b8e7f5c49533e8ec
+      internalID: -1108041389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc98004cd918b7649b2618610f4002ae
+      internalID: 1166252948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59e370c7d4ae084a97f85f5512c627b
+      internalID: -1477096076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eb9814ea742cb4abebe2ecce7a7c67
+      internalID: -1796994314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfa8a0d5a71cbb44a82483d9c3e0d8e
+      internalID: 1302332560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a07f508fbe35d741aea8c9622682e9d
+      internalID: -2131329165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206022dd6cd14314c8a51426a0b597fd
+      internalID: -344671190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec4bf84e45d2b54ea7ce5b34b6aba7f
+      internalID: -1422134391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4789db251b535a1418bb7298b41f4348
+      internalID: -1866713253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92579b162f4c984e810a1de3fb4d779
+      internalID: -1849054902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed67c82495a7f7499288f1a8cbe6bff
+      internalID: 1509336844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16dd209aa383d14dab28e14c91b126e
+      internalID: -1032244389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daef5b831d47e794688d20cb73dbc1a8
+      internalID: -1345228783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87c10eb6fad1504d998d261159b7c66
+      internalID: 631806836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7745c776b81634fb95fa54f5a8a7cc
+      internalID: 1648910613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbb019c4ad5d9b45aa1a0b2f5d9242f
+      internalID: 787973872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_33
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51bb25b11893054caae889d13110e66
+      internalID: -1337405270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d85dcde61d62544a242fdcf1a0099c
+      internalID: 771326940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_35
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e6c7ced8cd0dd439b2fc2deaf2e564
+      internalID: 1918669322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405e9e70df2c144408815e0de498b862
+      internalID: 1096031103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_37
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5c41707a4ba154a86c15f91dd63a80
+      internalID: -488460503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_38
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4db31ad6f754e43a3287d8a45ae6ee
+      internalID: 1225583331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605a19ae6e788b44aa9c2c8ff67f9a52
+      internalID: 1389748181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_40
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88281406b85fad4796baadb3a5e959c
+      internalID: 122769928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea39d5e439a3cc242843d7ac2d46752d
+      internalID: 819775733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0275b050e32ccf4383a83c68f518c6c
+      internalID: -1836534463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_43
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c1df1bbc5fb6d44a7ca10c39c481ea
+      internalID: 1982099557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907f3298c45db6040b7e5c425863429e
+      internalID: -1461660332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3360537367f66cf46bdf01bf61ee4a48
+      internalID: -1321098615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54d7ec16e3973d43866aa61d9f74a78
+      internalID: -1657090025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358348b6e1b5faf47ae91a9f9afbd139
+      internalID: 804623523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ae85b6b082bff41a8c9a043ac0f21c
+      internalID: -1109132280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e16adad4887ac745aaad3425b935115
+      internalID: -1033722642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af00286f6c25e2140ab519cfae4a92b8
+      internalID: 1908563102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5140c651a1d070148817e4505215a618
+      internalID: 1277625086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b28dbc4dac9fe4f87a3089857a8f01
+      internalID: 1216511359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30330704767bf334dba11468684119ba
+      internalID: 236920927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea2834f35eade54d9081f9fcd512103
+      internalID: -314658768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264d83fafb45f5a4e80758cd6b5e12be
+      internalID: -959396235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071cf7e45d2483d44b526df199205231
+      internalID: 383270664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1605d90a1c43996429ae4e754a974c67
+      internalID: 238040306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9782e0f4c4f1943834c1ea1fc3f314
+      internalID: 1692222473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17f9197b4902e94bbfe2afaf79ea3ce
+      internalID: 322885580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c65b2c121452e4fa7e9e00b44483ef
+      internalID: -1233069383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3af1be7fec7bcc4cb276ae236ba0e83
+      internalID: -852044621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c0d0112ee7fc445a07697ba2e4e97f
+      internalID: -1169613564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc91f9b9491fdc846847d5ba2a714ff8
+      internalID: 1456877543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca5f80e918c15e41b1f9af71ed05611
+      internalID: -187306046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_65
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40035507f8f9c4d42b291f65825b6701
+      internalID: -1363100095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside) Tileset 1_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ba824633d8c8e4783115bd8f23433a
+      internalID: 710031358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      House (Outside) Tileset_500: -1437576453
+      House (Outside) Tileset_30: -5489306260173895104
+      House (Outside) Tileset 1_42: -1836534463
+      House (Outside) Tileset_81: 1980405567
+      House (Outside) Tileset_530: -896893753
+      House (Outside) Tileset 1_31: 631806836
+      House (Outside) Tileset_29: 3489806738951564408
+      House (Outside) Tileset_46: -5868866380791760113
+      House (Outside) Tileset_85: 1353195396
+      House (Outside) Tileset 1_16: 1392208196
+      House (Outside) Tileset_112: 1629533544
+      House (Outside) Tileset_159: 1063612419
+      House (Outside) Tileset_35: 3139959638494209148
+      House (Outside) Tileset_149: 1509697939
+      House (Outside) Tileset_146: 583162450
+      House (Outside) Tileset 1_21: -1796994314
+      House (Outside) Tileset_7: -6611429835445329698
+      House (Outside) Tileset_38: 6549642737507849618
+      House (Outside) Tileset 1_61: -852044621
+      House (Outside) Tileset_45: 1482272987696563136
+      House (Outside) Tileset_64: 102675815
+      House (Outside) Tileset_161: -994901958
+      House (Outside) Tileset 1_48: -1109132280
+      House (Outside) Tileset 1_34: 771326940
+      House (Outside) Tileset 1_50: 1908563102
+      House (Outside) Tileset_18: 8734558098676755255
+      House (Outside) Tileset 1_7: -301343422
+      House (Outside) Tileset_23: -8137574184845400008
+      House (Outside) Tileset_519: 201306052
+      House (Outside) Tileset 1_54: -314658768
+      House (Outside) Tileset_521: -500923762
+      House (Outside) Tileset_31: -780014240874570732
+      House (Outside) Tileset_114: -1259055886
+      House (Outside) Tileset_21: 4952754124856020560
+      House (Outside) Tileset_518: -5666989897523187422
+      House (Outside) Tileset_522: 957406830
+      House (Outside) Tileset_118: -1987563797
+      House (Outside) Tileset_143: -824035848
+      House (Outside) Tileset_515: -2145472316
+      House (Outside) Tileset_516: 1400602887
+      House (Outside) Tileset_531: -713344105
+      House (Outside) Tileset_47: 7054814451585878143
+      House (Outside) Tileset 1_64: -187306046
+      House (Outside) Tileset_128: 1227445797
+      House (Outside) Tileset_63: -1734307261
+      House (Outside) Tileset_156: -1451447927
+      House (Outside) Tileset 1_18: -1108041389
+      House (Outside) Tileset_83: -719259748
+      House (Outside) Tileset_150: 750082075
+      House (Outside) Tileset 1_20: -1477096076
+      House (Outside) Tileset_122: 1814871125
+      House (Outside) Tileset_504: 1805756596
+      House (Outside) Tileset 1_27: -1849054902
+      House (Outside) Tileset_2: 5200607356273645627
+      House (Outside) Tileset_124: 1836751957
+      House (Outside) Tileset_62: 654243135012237764
+      House (Outside) Tileset 1_3: 1234386794
+      House (Outside) Tileset_86: 835561355
+      House (Outside) Tileset_126: 187105846
+      House (Outside) Tileset_34: 7822132452817088375
+      House (Outside) Tileset_179: -852586685
+      House (Outside) Tileset 1_35: 1918669322
+      House (Outside) Tileset_503: -1705394511
+      House (Outside) Tileset_512: 7866041070363516423
+      House (Outside) Tileset_58: 3691772043683049891
+      House (Outside) Tileset 1_46: -1657090025
+      House (Outside) Tileset 1_65: -1363100095
+      House (Outside) Tileset_26: -6971427052535172162
+      House (Outside) Tileset_176: -1500710856
+      House (Outside) Tileset_517: -378329185
+      House (Outside) Tileset_153: 314137303
+      House (Outside) Tileset_134: -1550995879
+      House (Outside) Tileset_513: 519938065
+      House (Outside) Tileset 1_26: -1866713253
+      House (Outside) Tileset_13: -3167074836629038936
+      House (Outside) Tileset_139: -1325158190
+      House (Outside) Tileset_167: 1044502165
+      House (Outside) Tileset_50: -6814543694603794282
+      House (Outside) Tileset_36: 4939136778047002477
+      House (Outside) Tileset 1_17: -153834662
+      House (Outside) Tileset 1_63: 1456877543
+      House (Outside) Tileset 1_15: 1739199523
+      House (Outside) Tileset_24: 8266262699848222451
+      House (Outside) Tileset_506: 1985855913
+      House (Outside) Tileset 1_14: -491235936
+      House (Outside) Tileset 1_32: 787973872
+      House (Outside) Tileset_130: -871084782
+      House (Outside) Tileset 1_19: 1166252948
+      House (Outside) Tileset_147: -1858426429
+      House (Outside) Tileset 1_56: 383270664
+      House (Outside) Tileset_107: 1072522757
+      House (Outside) Tileset_510: 3633512398310432036
+      House (Outside) Tileset_119: -1574842210
+      House (Outside) Tileset_160: -2113015211
+      House (Outside) Tileset_127: 14973548
+      House (Outside) Tileset_43: 3032550346550459966
+      House (Outside) Tileset_15: 8761426491377763681
+      House (Outside) Tileset 1_6: 1987078552
+      House (Outside) Tileset 1_51: 1277625086
+      House (Outside) Tileset_48: 6055165419537273641
+      House (Outside) Tileset_40: -3755799073046121372
+      House (Outside) Tileset 1_9: -582455228
+      House (Outside) Tileset_155: 45866028
+      House (Outside) Tileset_520: -1168521523
+      House (Outside) Tileset_44: -7672098784623569182
+      House (Outside) Tileset_144: 1385984982
+      House (Outside) Tileset_32: 7027510195967088604
+      House (Outside) Tileset_54: 764122369772615464
+      House (Outside) Tileset 1_60: -1233069383
+      House (Outside) Tileset 1_62: -1169613564
+      House (Outside) Tileset_53: -4269727783305486803
+      House (Outside) Tileset_129: -434380930
+      House (Outside) Tileset_170: -1043602326
+      House (Outside) Tileset 1_39: 1389748181
+      House (Outside) Tileset_57: 6469514718243991242
+      House (Outside) Tileset 1_24: -344671190
+      House (Outside) Tileset 1_29: -1032244389
+      House (Outside) Tileset_78: -232157567
+      House (Outside) Tileset_163: 2020623726
+      House (Outside) Tileset_181: -151049332
+      House (Outside) Tileset_42: 9143460161130516337
+      House (Outside) Tileset_171: -1859310785
+      House (Outside) Tileset_28: -4463529896452586184
+      House (Outside) Tileset_178: -382612897
+      House (Outside) Tileset 1_28: 1509336844
+      House (Outside) Tileset_77: 762706432
+      House (Outside) Tileset 1_49: -1033722642
+      House (Outside) Tileset_109: 1694857293
+      House (Outside) Tileset_16: 3400085030138601880
+      House (Outside) Tileset_132: -1032203755
+      House (Outside) Tileset 1_57: 238040306
+      House (Outside) Tileset 1_25: -1422134391
+      House (Outside) Tileset_501: -1089107992
+      House (Outside) Tileset 1_33: -1337405270
+      House (Outside) Tileset_33: 9050071683907944437
+      House (Outside) Tileset_14: 181440892462836867
+      House (Outside) Tileset_17: 5450386988682172615
+      House (Outside) Tileset 1_45: -1321098615
+      House (Outside) Tileset_177: 1230935411
+      House (Outside) Tileset_141: -1184957532
+      House (Outside) Tileset_116: 1809280298
+      House (Outside) Tileset_106: 817862069
+      House (Outside) Tileset_152: -21811009
+      House (Outside) Tileset_180: 96203457
+      House (Outside) Tileset_526: 1626815749
+      House (Outside) Tileset_108: -1749258687
+      House (Outside) Tileset_172: 251726086
+      House (Outside) Tileset 1_13: -403359338
+      House (Outside) Tileset 1_47: 804623523
+      House (Outside) Tileset 1_2: 153992713
+      House (Outside) Tileset_84: 96410045
+      House (Outside) Tileset_151: 1249519900
+      House (Outside) Tileset 1_66: 710031358
+      House (Outside) Tileset_51: -7507975296860178729
+      House (Outside) Tileset_120: 1878128769
+      House (Outside) Tileset_117: 387270172
+      House (Outside) Tileset_59: 2484458159588806401
+      House (Outside) Tileset 1_44: -1461660332
+      House (Outside) Tileset_123: -5402395
+      House (Outside) Tileset 1_8: -1206059887
+      House (Outside) Tileset 1_0: 1075584676
+      House (Outside) Tileset 1_11: 383936699
+      House (Outside) Tileset_22: 76911296537982087
+      House (Outside) Tileset 1_58: 1692222473
+      House (Outside) Tileset_162: -388983603
+      House (Outside) Tileset_527: 1142033529
+      House (Outside) Tileset_110: 1911158043
+      House (Outside) Tileset_140: 1548136778
+      House (Outside) Tileset_55: -7227673503402720968
+      House (Outside) Tileset 1_1: 707217497
+      House (Outside) Tileset_166: -609302537
+      House (Outside) Tileset 1_10: 1347222120
+      House (Outside) Tileset_65: 1133179780
+      House (Outside) Tileset_138: -820761272
+      House (Outside) Tileset_608: -1686917742
+      House (Outside) Tileset 1_41: 819775733
+      House (Outside) Tileset_12: 3140892967742329587
+      House (Outside) Tileset_154: 184747203
+      House (Outside) Tileset_19: -5748344824074178347
+      House (Outside) Tileset_39: -1023621282728188256
+      House (Outside) Tileset_111: 1898609303
+      House (Outside) Tileset_169: 175591006
+      House (Outside) Tileset 1_38: 1225583331
+      House (Outside) Tileset_175: 1310170782
+      House (Outside) Tileset_0: -264322282506193809
+      House (Outside) Tileset 1_36: 1096031103
+      House (Outside) Tileset 1_40: 122769928
+      House (Outside) Tileset_142: 276577983
+      House (Outside) Tileset_49: -6764629167179265646
+      House (Outside) Tileset 1_52: 1216511359
+      House (Outside) Tileset_524: 7771236598228699671
+      House (Outside) Tileset_56: 7686513534055380388
+      House (Outside) Tileset_158: 938921305
+      House (Outside) Tileset_174: 1206448403
+      House (Outside) Tileset_75: 1930559631
+      House (Outside) Tileset 1_55: -959396235
+      House (Outside) Tileset_168: -1839294236
+      House (Outside) Tileset 1_59: 322885580
+      House (Outside) Tileset_525: -1891994789
+      House (Outside) Tileset_115: 1272574227
+      House (Outside) Tileset_66: -1247122050
+      House (Outside) Tileset_157: 124025311
+      House (Outside) Tileset 1_53: 236920927
+      House (Outside) Tileset_523: -119473385
+      House (Outside) Tileset_135: -1032751908
+      House (Outside) Tileset_82: 1998746649
+      House (Outside) Tileset_509: 1500174768
+      House (Outside) Tileset 1_43: 1982099557
+      House (Outside) Tileset_133: 1676187211
+      House (Outside) Tileset_52: 8005126904278733720
+      House (Outside) Tileset_502: -647614302
+      House (Outside) Tileset_25: 6743729717739477589
+      House (Outside) Tileset 1_37: -488460503
+      House (Outside) Tileset_37: 2778001087544729489
+      House (Outside) Tileset_607: 169603087
+      House (Outside) Tileset_131: -2034105493
+      House (Outside) Tileset 1_30: -1345228783
+      House (Outside) Tileset_148: -820192730
+      House (Outside) Tileset_8: 4005163235147454471
+      House (Outside) Tileset_137: 3008029
+      House (Outside) Tileset_6: 5013948182015048132
+      House (Outside) Tileset_165: -883132366
+      House (Outside) Tileset_514: 2066655833
+      House (Outside) Tileset 1_23: -2131329165
+      House (Outside) Tileset_3: 1390420199113068945
+      House (Outside) Tileset_528: -605763248
+      House (Outside) Tileset 1_22: 1302332560
+      House (Outside) Tileset 1_4: 613716438
+      House (Outside) Tileset_113: 1525262408
+      House (Outside) Tileset_20: 5115719343605994410
+      House (Outside) Tileset_94: -1816641555
+      House (Outside) Tileset_505: 1678068697
+      House (Outside) Tileset_529: -738251633
+      House (Outside) Tileset_164: 1722223819
+      House (Outside) Tileset_27: -3210355261761380939
+      House (Outside) Tileset_145: -972580737
+      House (Outside) Tileset_173: -24343345
+      House (Outside) Tileset 1_5: 286631444
+      House (Outside) Tileset_125: 666882858
+      House (Outside) Tileset_511: -472315265
+      House (Outside) Tileset_41: 4902767883783168478
+      House (Outside) Tileset_121: -445742642
+      House (Outside) Tileset_136: -194235813
+      House (Outside) Tileset_76: -345023474
+      House (Outside) Tileset 1_12: 881679486
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
